@@ -15,7 +15,7 @@ How to Run Locally
 Clone this repo
 
 text
-git clone https://github.com/yourusername/todo-fullstack.git
+git clone https://github.com/yourusername/todo_app.git
 Backend setup
 
 text
